@@ -1,1 +1,31 @@
 Test
+
+Learning R
+https://www.edx.org/course/data-science-r-basics-harvardx-ph125-1x-0
+
+GANTT Charts
+https://www.smartsheet.com/c/online-gantt-chart?s=174&c=24&m=414&a=196882736306&k=free%20gant%20chart%20software&mtp=&adp=none&net=d&dev=c&devm=&plc=www.computerworld.com&gclid=EAIaIQobChMIv-HL_ZC52AIVFZUBCh1VYQBnEAEYASAAEgJ8xPD_BwE
+https://sukhbinder.wordpress.com/2016/05/10/quick-gantt-chart-with-matplotlib/
+
+Vlookup
+https://www.timeatlas.com/vlookup-tutorial/
+
+SQL and Python
+https://www.red-gate.com/simple-talk/sql/bi/machine-learning-services-part-1-python/
+
+
+https://online.wonderware.com/DataSourceManagement/History?id=a67ed43c-8233-4199-aed9-b286d49ea0b5
+https://www.youtube.com/watch?v=Eggj1SIsZTg&list=PLfkiNwzsfU3JluYuFDWOHxFnjslN40DTe&index=6
+
+
+https://jsonbin.io/about
+
+
+5a5623067cfd5a4dbc6b29b1
+http://api.jsonbin.io/b/5a5623067cfd5a4dbc6b29b1
+$2a$10$0uWx5uTE9GIcwdzrPhgp1OfX0O3YNXQhAHycHC/Lelh3Fhz6Bsdgq
+
+
+
+
+
